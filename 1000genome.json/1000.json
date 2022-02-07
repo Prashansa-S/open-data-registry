@@ -19,7 +19,7 @@
     "updatedAt": {
       "$date": ""
     },
-    "levelOfSharing": ,
+    "levelOfSharing": 0,
     "sharedTo": [],
     "Name": "1000 Genomes Phase 3 Reanalysis with DRAGEN 3.5 - Data Lakehouse Ready",
     "studyType": "Public",
